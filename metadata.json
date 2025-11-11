@@ -1,0 +1,7 @@
+{
+  "name": "Dream Weaver",
+  "description": "An application that transforms your dream descriptions into a multi-sensory, artistic interpretation using AI. Describe your dream, and watch as it's woven into a unique visual and auditory experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
